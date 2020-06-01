@@ -1,4 +1,3 @@
-
 class Cell
     attr_reader :x, :y
     attr_accessor :edges, :path
