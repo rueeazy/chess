@@ -79,9 +79,3 @@ class Gameboard
     end
 
 end
-
-# board = Gameboard.new
-# board.set_board
-# board.set_pieces
-# board.display_board
-
