@@ -1,5 +1,5 @@
 class Queen
-    attr_accessor :incremental_moves, :ending_positions, :possible_positions
+    attr_accessor :incremental_moves, :ending_positions, :possible_positions, :color
     
     def initialize(color)
         @color = color
